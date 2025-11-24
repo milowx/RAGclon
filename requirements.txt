@@ -1,0 +1,14 @@
+sentence-transformers
+chromadb
+faiss-cpu   
+langchain
+openai          
+python-dotenv
+beautifulsoup4
+python-docx
+pdfminer.six
+tqdm
+fastapi
+uvicorn
+faiss-cpu
+numpy

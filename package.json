@@ -1,0 +1,11 @@
+{
+  "name": "email-rag-server",
+  "type": "module",
+  "dependencies": {
+    "@datastax/astra-db-ts": "^1.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "openai": "^4.104.0"
+  }
+}
